@@ -20,9 +20,9 @@ para atuar como Web Designer em um futuro próximo.
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/arthurgcs7/)
     </pre>
    <div style="text-align: center;">
-  <img src="https://github.com/agcs7/agcs7/blob/main/assets/pokemon-fire-red.gif" width="250" height="250" style="object-fit: cover;"/>
-  <img src="https://github.com/agcs7/agcs7/blob/main/assets/pokemon-emerald-nintendo.gif" width="285" height="285" style="object-fit: cover;"/>
-  <img src="https://github.com/agcs7/agcs7/blob/main/assets/bw-battle.gif" width="250" height="250" style="object-fit: cover;"/>
+  <img src="https://github.com/agcs7/agcs7/blob/main/assets/pokemon-fire-red.gif" width="240" height="160" style="object-fit: cover;"/>
+  <img src="https://github.com/agcs7/agcs7/blob/main/assets/pokemon-emerald-nintendo.gif" width="240" height="160" style="object-fit: cover;"/>
+  <img src="https://github.com/agcs7/agcs7/blob/main/assets/bw-battle.gif" width="240" height="160" style="object-fit: cover;"/>
 </div>
   </div>
 </div>
